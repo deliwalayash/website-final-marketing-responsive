@@ -270,6 +270,14 @@
         display: none;
     }
 
+    .group {
+        display: none;
+    }
+
+    .strategy-block{
+        margin-top: 0px;
+    }
+
 
 
     .wrap-reverse {
